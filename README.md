@@ -1,2 +1,4 @@
 # plugins
-more on tilda.live
+mobanim.js — активируйте пошаговую анимацию на мобильных устройствах
+
+More at tilda.live
